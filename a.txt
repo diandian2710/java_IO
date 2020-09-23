@@ -1,0 +1,6 @@
+abc学习Java IO流cd
+a
+b
+c
+d
+e
